@@ -1,6 +1,5 @@
-streamlit as st
-from streamlit_webrtc
-webrtc_streamer
+streamlit
+streamlit_webrtc
 av
 cv2
 pandas
